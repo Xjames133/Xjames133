@@ -2,7 +2,7 @@
 
 I'm Xavier James, I'm a computer science and AI masters student at Boston University with a bachelor's in Computer Information Systems from Clemson University.
 
-I'm currently working as an IT Auditor at Blue Cross Blue Shield, but in the past I've worked as a Cloud Ops Technical Intern or software developer for short at SAS Institute. In college as my first job in IT, I worked as Wireless Network Intern at Clemson University, where I would travel across campus checking access points and network closets ensuring the switches were properly configured.
+I'm currently working as an **IT Auditor** at Blue Cross Blue Shield, but in the past I've worked as a **Cloud Ops Technical Intern** or software developer for short at SAS Institute. In college as my first job in IT, I worked as **Wireless Network Intern** at Clemson University, where I would travel across campus checking access points and network closets ensuring the switches were properly configured.
 
 Nowadays my technical interest include being up to date on AI and cloud innovations in the field, and in my off time dabbling in game development, network configuration, and soon robotics.
 
